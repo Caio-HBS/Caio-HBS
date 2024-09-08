@@ -2,6 +2,13 @@
 
 <h1 align="center">Welcome to my profile!</h1>
 
+<h3>Language selection</h3>
+
+[![pt-br](https://img.shields.io/badge/lang-pt--BR-blue.svg)](https://github.com/Caio-HBS/Caio-HBS/blob/main/README.pt-br.md)
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/Caio-HBS/Caio-HBS/blob/main/README.md)
+
+<hr />
+
 <p align="center" width="150px"> Hi, I'm <strong>Caio Bianchi!</strong><br>I am a web developer with solid knowledge in Python 3, Java, and JavaScript, specializing in frameworks such as Django and Spring/Spring Boot, as well as libraries like React and Angular. I have a deep understanding of Pytest, JUnit, and Mockito to ensure code quality through automated testing, along with strong skills in Docker, Kubernetes, and deployment on AWS. I am highly familiar with PostgreSQL and MySQL.</p>
 
 ### 🛠 &nbsp;Tech Stack
