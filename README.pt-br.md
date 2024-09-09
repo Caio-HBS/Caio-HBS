@@ -1,15 +1,15 @@
-<p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
-
-<h1 align="center">Welcome to my profile!</h1>
-
 <h3>Seleção de linguagem</h3>
 
 [![pt-br](https://img.shields.io/badge/lang-pt--BR-blue.svg)](https://github.com/Caio-HBS/Caio-HBS/blob/main/README.pt-br.md)
 [![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/Caio-HBS/Caio-HBS/blob/main/README.md)
 
-<hr />
+<p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
 
-<p align="center" width="150px"> Prazer, eu sou o <strong>Caio Bianchi!</strong><br>Sou um desenvolvedor web com sólido conhecimento em Python 3, Java e JavaScript, especializado em frameworks como Django e Spring/Spring Boot, além de bibliotecas como React e Angular. Profundo entendimento de Pytest, JUnit e Mockito para garantir a qualidade do código através de testes automatizados, além de habilidades sólidas em Docker, Kubernetes e deploy na AWS. Grande familiaridade com PostgreSQL e MySQL.</p>
+<h1 align="center">Bem-vindo ao meu perfil!</h1>
+
+
+
+<p align="center" width="150px"> Prazer, me chamo <strong>Caio Bianchi!</strong><br>Sou um desenvolvedor web com sólido conhecimento em Python 3, Java e JavaScript, especializado em frameworks como Django e Spring/Spring Boot, além de bibliotecas como React e Angular. Profundo entendimento de Pytest, JUnit e Mockito para garantir a qualidade do código através de testes automatizados, além de habilidades sólidas em Docker, Kubernetes e deploy na AWS. Grande familiaridade com PostgreSQL e MySQL.</p>
 
 ### 🛠 &nbsp;Tech Stack
 
