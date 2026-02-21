@@ -9,7 +9,7 @@
 <h3 align="center">Prazer, me chamo Caio Bianchi! Sou um desenvolvedor web com sólido conhecimento em Python 3, Java e JavaScript, especializado em frameworks como Django e Spring/Spring Boot, além de bibliotecas como React e Angular. Profundo entendimento de Pytest, JUnit e Mockito para garantir a qualidade do código através de testes automatizados, além de habilidades sólidas em Docker, Kubernetes e deploy na AWS. Grande familiaridade com PostgreSQL e MySQL.</h3>
 
 - 🔭 Atualmente, estou trabalhando em:
-  - **[Projeto Java ainda sem nome utilizando microsserviços]()**
+  - **[NED - Projeto Springboot de e-commerce utilizando Kafka](https://github.com/Caio-HBS/Ned)**
   - **[Wan &mdash; um categorizador de arquivos não intrusivo usando TypeScript]()**
 
 - 🌱 Atualmente, estou estudando **Kafka, Microsserviços e desenvolvimento backend**

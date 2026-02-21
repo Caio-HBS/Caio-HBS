@@ -9,7 +9,7 @@
 <h3 align="center">I am a web developer with solid knowledge in Python 3, Java, and JavaScript, specializing in frameworks such as Django and Spring/Spring Boot, as well as libraries like React and Angular. I have a deep understanding of Pytest, JUnit, and Mockito to ensure code quality through automated testing, along with strong skills in Docker, Kubernetes, and deployment on AWS. I am highly familiar with PostgreSQL and MySQL.</h3>
 
 - 🔭 I’m currently working on:
-  - **[Unnamed Java microservices project]()**
+  - **[NED - Springboot e-commerce using Kafka and microservice architecture](https://github.com/Caio-HBS/Ned)**
   - **[Wan &mdash; a TypeScript unobtrusive file categorizer]()**
 
 - 🌱 I’m currently learning **Kafka, Microservices and backend development**
